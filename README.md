@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crisncris0000
+- 👋 Hi, I’m Christopher Rivera
 - 👀 I’m interested in many things like machine learning, game programming, etc..
 - 🌱 Right now im in college working towards a B.A, on the side im focusing on Java
 - 📫 How to reach me Christopherrivera384@gmail.com <---- best way
